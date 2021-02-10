@@ -26,3 +26,6 @@ Resources
 
 8. Trees
 - https://youtube.com/playlist?list=PL-pUjcDnciX3Z5AEE8HHRrcfj-987Ia94
+
+
+![DSA](https://miro.medium.com/max/1000/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
