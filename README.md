@@ -14,7 +14,8 @@ Resources
 4. Graphs
 - https://youtube.com/playlist?list=PLgUwDviBIf0rJ-OmpsTZTrv5dfGLR5eQS
 - https://youtube.com/playlist?list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5
-- 
+
+- Striver's Graph Series
 - https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
 
 5. Heap
