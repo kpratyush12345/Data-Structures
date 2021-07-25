@@ -33,7 +33,7 @@ Watch each Topic in Series and after every topic do questions related to it from
 - https://youtube.com/playlist?list=PL-pUjcDnciX3Z5AEE8HHRrcfj-987Ia94
 
 After Doing every Topic do this SDE sheet https://drive.google.com/drive/folders/1jzGgf3eN_9ixdI2qVmSB-Rh8GINMYOeB?usp=sharing . 
-After completing this Start again and do all the questions you have done before and watch videos related to that question only . You can refer TechDose , take U forward , Striver , Pepcoding , Code Library youtube Channels.
+After completing this Start again and do all the questions you have done before and watch videos related to that question only . You can refer TechDose , take U forward , Striver , Pepcoding , Code Library , Aditya Verma youtube Channels.
 
 ALL THE BEST!
 
