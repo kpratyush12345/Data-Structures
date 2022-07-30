@@ -33,7 +33,7 @@ Watch each Topic in Series and after every topic do questions related to it from
 - https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
 
 9. Trees
-- https://youtube.com/playlist?list=PL-pUjcDnciX3Z5AEE8HHRrcfj-987Ia94
+- https://youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk
 
 Side By Side Do Leetcode Daily Challenges
 
