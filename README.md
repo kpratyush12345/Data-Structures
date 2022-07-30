@@ -36,7 +36,7 @@ Watch each Topic in Series and after every topic do questions related to it from
 
 Side By Side Do Leetcode Daily Challenges
 
-After Doing every Topic do this SDE sheet https://drive.google.com/drive/folders/1jzGgf3eN_9ixdI2qVmSB-Rh8GINMYOeB?usp=sharing . 
+After Doing every Topic do this SDE sheet https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ . 
 After completing this Start again and do all the questions you have done before and watch videos related to that question only . 
 You can refer [TechDose](https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g) , [take U forward](https://www.youtube.com/c/takeUforward) , [Pepcoding](https://www.youtube.com/c/Pepcoding) , [Code Library](https://www.youtube.com/c/CodeLibrary) , [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord) , [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha) youtube Channels.
 
