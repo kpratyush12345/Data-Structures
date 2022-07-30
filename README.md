@@ -18,7 +18,7 @@ Watch each Topic in Series and after every topic do questions related to it from
 - https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9
 
 5. Linked Lists
-- https://youtube.com/playlist?list=PLLea03u4b2pZC3gY7otomkcb2eNJmnQDp
+- https://youtube.com/playlist?list=PLKZaSt2df1gz775Mz-2gLpY9sld5wH8We
 
 6. Recursion
 - https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
