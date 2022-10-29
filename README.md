@@ -1,9 +1,9 @@
 # Data-Structures
 
-DSA Roadmap
-------------------------
+DSA Roadmap - The Path That I Followed
+----------------------------------------
 
-Watch each Topic in Series and after every topic do questions related to it from here https://drive.google.com/drive/folders/1dTNvYsYgZjEQroDqME4JTbxbDmSGvly7?usp=sharing . First complete one topic and then do the questions from leetcode topic wise and then do all the question related to that topic from the FINAL450 and GFG pdf.
+Watch each Topic in Series and after every topic do questions related to it from here https://drive.google.com/drive/folders/1dTNvYsYgZjEQroDqME4JTbxbDmSGvly7?usp=sharing. First complete one topic and then do the questions from leetcode topic wise and then do all the question related to that topic from the FINAL450 and GFG pdf.
 
 1. Binary Search
 - https://youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
